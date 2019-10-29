@@ -1,6 +1,5 @@
-#include<bits/stdc++.h>
-using namespace std;
-int main()
+#include<iostream.h>
+void main()
 {
-	printf("Hello..........\n");
+	cout<<"Hello World\nMy first Hactoberfest";
 }
